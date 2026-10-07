@@ -95,7 +95,7 @@ $('#sendRecovery')?.addEventListener('click', () => {
   const msg = encodeURIComponent(
     `Halo TAMA, saya ingin order Jasa Pemulihan Akun Roblox.\nUsername: ${username}\nMasalah: ${problem}\nSudah berapa lama: ${duration}\nKronologi: ${story}`
   );
-  window.open(`https://wa.me/62895391845923?text=${msg}`, '_blank', 'noopener,noreferrer');
+  window.open(`https://wa.me/62895328044863?text=${msg}`, '_blank', 'noopener,noreferrer');
 });
 
 // v15: lightweight custom purple dropdowns (avoids native gray menus on mobile)
